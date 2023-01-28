@@ -21,6 +21,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>01-facebook_app</finalName>
+    <finalName>01-facebook</finalName>
   </build>
 </project>
